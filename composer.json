@@ -1,0 +1,18 @@
+{
+    "name": "vinixal/mu-lib",
+    "description": "just for test",
+    "type": "lry",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vinixal\\MuLib\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Navin",
+            "email": "navinchhorndeveloper@gmail.com"
+        }
+    ],
+    "require": {}
+}
